@@ -1,6 +1,17 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cs,java,nextjs,mysql,sqlserver" /><br>
+    <h2>Lenguajes</h2>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,cs,postgresql,mysql&theme=dark&perline=8" alt="Lenguajes">
+    <br/>
+    <h2>Frameworks</h2>
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwindcss,spring,hibernate,dotnet&theme=dark&perline=6" alt="Frameworks">
+    <br/>
+    <h2>Herramientas e IDEs</h2>
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea&theme=dark&perline=3" alt="Herramientas e IDEs">
+    <br/>
+    <h2>Tools</h2>
+    <img src="https://skillicons.dev/icons?i=postman,git,github&theme=dark&perline=3" alt="Tools">
+
+
 </div>
