@@ -13,7 +13,7 @@
     <img src="https://skillicons.dev/icons?i=postgresql,mysql&theme=dark&perline=2" alt="Bases de Datos">
 <br/>
     <!-- Herramientas e IDEs -->
-    <h2>Herramientas e IDEs</h2>
+    <h2>IDEs</h2>
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea&theme=dark&perline=3" alt="Herramientas e IDEs">
 <br/>
     <!-- Tools -->
