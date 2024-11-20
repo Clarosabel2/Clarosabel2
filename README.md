@@ -1,2 +1,2 @@
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=clarosabel2&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=clarosabel2&layout=compact&theme=dark&show_icons=true">
