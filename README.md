@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy Abel</h1>
-<h3 align="center">Soy desarrollador backend con experiencia en Java, Spring Boot y C# .NET, y conocimientos en frontend con JavaScript, React y Tailwind CSS. Actualmente soy estudiante avanzado de Ingeniería en Sistemas, apasionado por aprender, crear y colaborar en proyectos que generen valor real. Me gusta trabajar con arquitecturas limpias, aplicar principios SOLID y patrones de diseño, y participar en equipos donde se utilicen metodologías ágiles. Disfruto diseñar soluciones robustas y escalables, tanto para APIs como para sistemas completos de gestión.</h3>
-
+<h3 align="center">Desarrollador backend </h3>
+<h4>Cuento con experiencia en Java, Spring Boot y C# .NET, y conocimientos en frontend con JavaScript, React y Tailwind CSS. Actualmente soy estudiante avanzado de Ingeniería en Sistemas, apasionado por aprender, crear y colaborar en proyectos que generen valor real. Me gusta trabajar con arquitecturas limpias, aplicar principios SOLID y patrones de diseño, y participar en equipos donde se utilicen metodologías ágiles. Disfruto diseñar soluciones robustas y escalables, tanto para APIs como para sistemas completos de gestión. </h4>
 - 🔭 I’m currently working on [corralon-app](https://github.com/Clarosabel2/corralon-app)
 
 <h3 align="left">Connect with me:</h3>
