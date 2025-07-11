@@ -11,10 +11,7 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🔭 I’m currently working on `webgis` Development.
-- 🌱 I’m currently learning `webgl` and `threejs`
-- 👯 I’m looking to collaborate with Fullstack Web and Frontend visualization Developers.
-- 🤔 I’m looking for help with Open source Contribution.
+- 🔭 I’m currently working on `delcone-ecom` Development.
 - ⚙️ I use daily: `.java`, `.cs`, `.ts`, `.css`, `.js`
 - 💬 Ping me about **fullstack**, **development**, **backend**
 
