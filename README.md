@@ -106,6 +106,22 @@
                 height="40"
         />
     </a>
+  <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank" rel="noreferrer">
+        <img
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/1200px-C_Sharp_Logo_2023.svg.png"
+                alt="redis"
+                width="40"
+                height="40"
+        />
+    </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png"
+                alt="redis"
+                width="40"
+                height="40"
+        />
+    </a>
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> My Statistics
