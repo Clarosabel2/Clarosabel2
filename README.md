@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+ashu+guo;TN+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Abel+Claros;Backend+Developer;Full+Stack+Developer!!!;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
 <br>
@@ -122,13 +122,13 @@
 <tr border="none">
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=clarosabel2&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=clarosabel2&theme=nord&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=clarosabel2&hide_border=false" /> 
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=clarosabel2&theme=nord&locale=es&hide_total_contributions=true" alt="GitHub Streak" /></a>
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=clarosabel2&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=clarosabel2&theme=nord&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
   </td>
 </tr>
@@ -143,34 +143,17 @@
 </p>
 
 ## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Connect Me Via
-
 <p align="center">
-  <a href="https://ashu-guo.github.io/blogs/" target="_blank">
-    <img align="center" alt="ashu-guo | blogs" width="24px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/vitepress.svg" />
+  <a href="https://www.linkedin.com/in/abel-claros" target="_blank">
+    <img align="center" alt="ashu-guo | juejin" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" />
   </a> &nbsp;&nbsp;
 
-  <a href="https://profile-summary-for-github.herokuapp.com/user/ashu-guo" target="_blank">
-    <img align="center" alt="ashu-guo | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  <a href="mailto:clarosabel2@gmail.com" >
+    <img align="center" alt="ashu-guo | Gmail" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg"/>
   </a> &nbsp;&nbsp;
-
-  <a href="https://juejin.cn/user/3280598430653374" target="_blank">
-    <img align="center" alt="ashu-guo | juejin" width="24px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/juejin.svg" />
-  </a> &nbsp;&nbsp;
-
-  <a href="mailto:guochengli1997@gmail.com" >
-    <img align="center" alt="ashu-guo | Gmail" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
-  </a> &nbsp;&nbsp;
-<p>
-
-
-<div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2024 ashu-guo
-</div>
-
+</p>
 
 ---
 
 Credit: [ashu-guo](https://github.com/ashu-guo)
 
-Last Edited on 03/01/2024
