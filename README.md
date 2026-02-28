@@ -1,10 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Abel+Claros;Backend+Developer;Full+Stack+Developer!!!;Welcome+to+my+profile!" alt="Title"></img>
-</div>
-
-<br>
-
-
 ## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me
 
 <table align="center">
@@ -131,14 +124,6 @@
 </tr>
 </table>
 
-<p >
-    <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
-    </picture>
-</p>
-
 ## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Connect Me Via
 <p align="center">
   <a href="https://www.linkedin.com/in/abel-claros" target="_blank">
@@ -153,4 +138,5 @@
 ---
 
 Credit: [ashu-guo](https://github.com/ashu-guo)
+
 
